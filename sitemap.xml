@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://www.cxcons.com/</loc>
-    <priority>1.0</priority>
-  </url>
+  <!-- Main Pages -->
+  <url><loc>https://www.cxcons.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://www.cxcons.com/about</loc><priority>0.8</priority></url>
+  <url><loc>https://www.cxcons.com/services</loc><priority>0.8</priority></url>
+  <url><loc>https://www.cxcons.com/hrdcorp</loc><priority>0.8</priority></url>
+  <url><loc>https://www.cxcons.com/resources</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/hr-appreciation-program</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/Join-Our-Team</loc><priority>0.7</priority></url>
 
-  <url>
-    <loc>https://www.cxcons.com/about</loc>
-    <priority>0.8</priority>
-  </url>
+  <!-- HRDCorp Subpages -->
+  <url><loc>https://www.cxcons.com/hrdcorp/hrdcorp-hub</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/hrdcorp/hrdc-registered-companies</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/evaluation-process</loc><priority>0.7</priority></url>
 
-  <url>
-    <loc>https://www.cxcons.com/services</loc>
-    <priority>0.8</priority>
-  </url>
+  <!-- Services Subpages -->
+  <url><loc>https://www.cxcons.com/services/Event-design-and-theme-development</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/vendor-management</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/web-development-and-design</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/event-logistics-planning-and-coordination</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/advertisement-and-marketing</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/Product-launch</loc><priority>0.7</priority></url>
+  <url><loc>https://www.cxcons.com/services/local-crm-service</loc><priority>0.7</priority></url>
 
-  <url>
-    <loc>https://www.cxcons.com/hrdcorp</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.cxcons.com/resources</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.cxcons.com/hr-appreciation-program</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.cxcons.com/Join-Our-Team</loc>
-    <priority>0.7</priority>
-  </url>
+  <!-- About Us Subpages -->
+  <url><loc>https://www.cxcons.com/news-articles</loc><priority>0.6</priority></url>
 
 </urlset>
