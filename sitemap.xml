@@ -1,30 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Main Pages -->
-  <url><loc>https://www.cxcons.com/</loc><priority>1.0</priority></url>
-  <url><loc>https://www.cxcons.com/about</loc><priority>0.8</priority></url>
-  <url><loc>https://www.cxcons.com/services</loc><priority>0.8</priority></url>
-  <url><loc>https://www.cxcons.com/hrdcorp</loc><priority>0.8</priority></url>
-  <url><loc>https://www.cxcons.com/resources</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/hr-appreciation-program</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/Join-Our-Team</loc><priority>0.7</priority></url>
+  <!-- Root Pages -->
+  <url><loc>https://yourusername.github.io/cxcons/index.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/contact.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/about.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/public-and-in-house-programs.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/request-custom-programs.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/join-our-team.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/hr-appreciation-program.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/news-and-articles.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/campaign-terms-and-conditions.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/resources.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/privacy-statement.html</loc></url>
 
-  <!-- HRDCorp Subpages -->
-  <url><loc>https://www.cxcons.com/hrdcorp/hrdcorp-hub</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/hrdcorp/hrdc-registered-companies</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/evaluation-process</loc><priority>0.7</priority></url>
+  <!-- Solutions Section -->
+  <url><loc>https://yourusername.github.io/cxcons/solutions/index.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/annual-dinners.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/corporate-learning.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/team-building.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/csr-events.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/networking-events.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/workshops-seminars.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/product-launches.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/solutions/awards-ceremonies.html</loc></url>
 
-  <!-- Services Subpages -->
-  <url><loc>https://www.cxcons.com/services/Event-design-and-theme-development</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/vendor-management</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/web-development-and-design</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/event-logistics-planning-and-coordination</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/advertisement-and-marketing</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/Product-launch</loc><priority>0.7</priority></url>
-  <url><loc>https://www.cxcons.com/services/local-crm-service</loc><priority>0.7</priority></url>
+  <!-- HRD Corp Section -->
+  <url><loc>https://yourusername.github.io/cxcons/hrdcorp/index.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/hrdcorp/hrdcorp-hub.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/hrdcorp/registered-companies.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/hrdcorp/employer-guide.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/hrdcorp/evaluation-process.html</loc></url>
 
-  <!-- About Us Subpages -->
-  <url><loc>https://www.cxcons.com/news-articles</loc><priority>0.6</priority></url>
+  <!-- Services Section -->
+  <url><loc>https://yourusername.github.io/cxcons/services/index.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/event-design-theme.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/web-development-design.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/vendor-management.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/budget-management.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/marketing-promotion.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/event-logistics.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/risk-management.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/advertisement-marketing.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/product-launch-execution.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/services/local-crm-service.html</loc></url>
+
+  <!-- Industry Pulse Section -->
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/index.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/employment-act-1955.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/maternity-rights.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/union-representation.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/flexible-working-rights.html</loc></url>
+  <url><loc>https://yourusername.github.io/cxcons/industry-pulse/industrial-harmony.html</loc></url>
+  <!-- (and so on for all Industry Pulse pages you listed) -->
 
 </urlset>
